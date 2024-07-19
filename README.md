@@ -9,4 +9,8 @@
 ![Python](https://img.shields.io/badge/-Python-09090a?style=for-the-badge&logo=python)
 ![Spring](https://img.shields.io/badge/-Spring-09090a?style=for-the-badge&logo=spring)
 
-Follow me
+### Follow me
+![Telegram](https://img.shields.io/badge/-Telegram-09090a?style=for-the-badge&logo=telegram)
+![Discord](https://img.shields.io/badge/-Discord-09090a?style=for-the-badge&logo=discord)
+![ВК](https://img.shields.io/badge/-ВК-09090a?style=for-the-badge&logo=vk&logoColor=057df5)
+
