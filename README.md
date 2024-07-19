@@ -2,6 +2,11 @@
 
 ## I am beginer Java Engeneer
 
+### Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bzbxddbx&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bzbxddbx&layout=compact&theme=radical)
+
 ### Languages and Tools
 ![Git](https://img.shields.io/badge/-Git-09090a?style=for-the-badge&logo=git)
 ![Sql](https://img.shields.io/badge/-Sql-09090a?style=for-the-badge&logo=mysql)
