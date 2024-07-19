@@ -3,9 +3,9 @@
 ## I am beginer Java Engeneer
 
 ### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bzbxddbx&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bzbxddbx&theme=radical&title_color=7c2bb5&text_color=d3b0eb)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bzbxddbx&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bzbxddbx&layout=compact&theme=radical&title_color=7c2bb5&text_color=d3b0eb)
 
 ### Languages and Tools
 ![Git](https://img.shields.io/badge/-Git-09090a?style=for-the-badge&logo=git)
